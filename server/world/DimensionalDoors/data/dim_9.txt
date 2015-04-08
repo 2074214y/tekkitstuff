@@ -1,0 +1,53 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 9,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 6,
+  "PackDepth": 0,
+  "ParentID": 7,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": true,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/deadEnd_smallHiddenTowerO_open_100.schematic",
+    "SchematicName": "deadEnd_smallHiddenTowerO_open_100",
+    "DungeonTypeName": "DEADEND",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 584,
+    "y": 82,
+    "z": -223
+  },
+  "Orientation": 0,
+  "ChildIDs": [],
+  "Links": [
+    {
+      "source": {
+        "x": 584,
+        "y": 82,
+        "z": -223,
+        "dimension": 9
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 773,
+          "y": 82,
+          "z": -275,
+          "dimension": 7
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

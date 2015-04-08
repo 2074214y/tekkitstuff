@@ -1,0 +1,122 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 5,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 3,
+  "PackDepth": 0,
+  "ParentID": 4,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 200,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/hub_4WayBasicHall_closed_200.schematic",
+    "SchematicName": "hub_4WayBasicHall_closed_200",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 805,
+    "y": 73,
+    "z": 409
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    6,
+    10
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 805,
+        "y": 73,
+        "z": 409,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 486,
+          "y": 73,
+          "z": 385,
+          "dimension": 4
+        },
+        "linkType": 7
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 828,
+        "y": 73,
+        "z": 409,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 1314,
+          "y": 73,
+          "z": 388,
+          "dimension": 10
+        },
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 816,
+        "y": 73,
+        "z": 402,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 805,
+          "y": 73,
+          "z": 118,
+          "dimension": 6
+        },
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 816,
+        "y": 73,
+        "z": 416,
+        "dimension": 5
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    }
+  ],
+  "Tails": []
+}
