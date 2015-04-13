@@ -650,3 +650,104 @@ java.lang.IndexOutOfBoundsException: Index: 109, Size: 45
 2015-04-09 00:31:20 [INFO] Saving worlds
 2015-04-09 00:31:20 [INFO] Saving chunks for level 'world'/Overworld
 2015-04-09 00:31:20 [INFO] Closing listening thread
+2015-04-09 17:00:47 [INFO] Starting minecraft server version 1.6.4
+2015-04-09 17:01:13 [INFO] Loading properties
+2015-04-09 17:01:13 [INFO] Default game type: SURVIVAL
+2015-04-09 17:01:13 [INFO] Generating keypair
+2015-04-09 17:01:13 [INFO] Starting Minecraft server on *:25565
+2015-04-09 17:01:13 [WARNING] **** FAILED TO BIND TO PORT!
+2015-04-09 17:01:13 [WARNING] The exception was: {0}
+2015-04-09 17:01:13 [WARNING] Perhaps a server is already running on that port?
+2015-04-09 17:01:13 [INFO] Stopping server
+2015-04-09 17:01:13 [INFO] Saving worlds
+2015-04-09 17:01:13 [INFO] Stopping server
+2015-04-09 17:01:13 [INFO] Saving worlds
+2015-04-09 17:03:25 [INFO] Starting minecraft server version 1.6.4
+2015-04-09 17:03:43 [INFO] Loading properties
+2015-04-09 17:03:43 [INFO] Default game type: SURVIVAL
+2015-04-09 17:03:43 [INFO] Generating keypair
+2015-04-09 17:03:43 [INFO] Starting Minecraft server on *:25565
+2015-04-09 17:03:43 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-09 17:03:43 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-09 17:03:43 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-09 17:03:43 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-09 17:03:48 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-04-09 17:03:52 [INFO] Preparing level "world"
+2015-04-09 17:03:54 [INFO] Preparing start region for level 0
+2015-04-09 17:03:55 [INFO] Preparing spawn area: 57%
+2015-04-09 17:03:55 [INFO] Done (3,137s)! For help, type "help" or "?"
+2015-04-09 17:04:01 [SEVERE] Reached end of stream for /25.120.215.232
+2015-04-09 17:04:04 [INFO] Wisperoon[/25.120.215.232:54907] logged in with entity id 417 at (49.436716977162675, 89.4599466004811, 98.89566707079763)
+2015-04-09 17:04:04 [INFO] Wisperoon joined the game
+2015-04-09 17:05:24 [INFO] Wisperoon lost connection: disconnect.quitting
+2015-04-09 17:05:24 [INFO] Wisperoon left the game
+2015-04-09 17:05:27 [INFO] Stopping server
+2015-04-09 17:05:27 [INFO] Saving players
+2015-04-09 17:05:27 [INFO] Saving worlds
+2015-04-09 17:05:27 [INFO] Saving chunks for level 'world'/Overworld
+2015-04-09 17:05:27 [INFO] Closing listening thread
+2015-04-09 17:05:27 [INFO] Saving chunks for level 'world'/Nether
+2015-04-09 17:05:27 [INFO] Stopping server
+2015-04-09 17:05:27 [INFO] Saving players
+2015-04-09 17:05:27 [INFO] Saving worlds
+2015-04-09 17:05:39 [INFO] Starting minecraft server version 1.6.4
+2015-04-09 17:05:51 [INFO] Loading properties
+2015-04-09 17:05:51 [INFO] Default game type: SURVIVAL
+2015-04-09 17:05:51 [INFO] Generating keypair
+2015-04-09 17:05:51 [INFO] Starting Minecraft server on *:25565
+2015-04-09 17:05:51 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-09 17:05:51 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-09 17:05:51 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-09 17:05:51 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-09 17:05:54 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-04-09 17:05:55 [INFO] Preparing level "world"
+2015-04-09 17:05:56 [INFO] Preparing start region for level 0
+2015-04-09 17:05:56 [INFO] Done (1,241s)! For help, type "help" or "?"
+2015-04-09 17:06:01 [SEVERE] Reached end of stream for /25.120.215.232
+2015-04-09 17:06:32 [SEVERE] Reached end of stream for /25.120.215.232
+2015-04-09 17:06:40 [INFO] Wisperoon[/25.120.215.232:54943] logged in with entity id 447 at (71.93049530574385, 94.4696046786143, 94.0365311648412)
+2015-04-09 17:06:40 [INFO] Wisperoon joined the game
+2015-04-09 17:13:41 [INFO] Wisperoon lost connection: disconnect.quitting
+2015-04-09 17:13:41 [INFO] Wisperoon left the game
+2015-04-09 17:14:58 [INFO] Starting minecraft server version 1.6.4
+2015-04-09 17:15:10 [INFO] Loading properties
+2015-04-09 17:15:10 [INFO] Default game type: SURVIVAL
+2015-04-09 17:15:10 [INFO] Generating keypair
+2015-04-09 17:15:10 [INFO] Starting Minecraft server on *:25565
+2015-04-09 17:15:10 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-09 17:15:10 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-09 17:15:10 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-09 17:15:10 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-09 17:15:13 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2015-04-09 17:15:15 [INFO] Preparing level "world"
+2015-04-09 17:15:15 [INFO] Preparing start region for level 0
+2015-04-09 17:15:16 [INFO] Done (1,179s)! For help, type "help" or "?"
+2015-04-09 17:15:16 [WARNING] [CalclaviaCore]SaveManager: Skipping object with id ModFlag
+2015-04-09 17:20:41 [SEVERE] Reached end of stream for /25.128.157.64
+2015-04-09 17:20:48 [INFO] rouskata[/25.128.157.64:51908] logged in with entity id 2183 at (32.748793162957746, 75.08912801024742, 101.90938558616585)
+2015-04-09 17:20:48 [INFO] rouskata joined the game
+2015-04-09 17:21:31 [SEVERE] Reached end of stream for /25.120.215.232
+2015-04-09 17:21:40 [INFO] Wisperoon[/25.120.215.232:55354] logged in with entity id 4677 at (37.80651427346472, 97.0, 98.43470603901012)
+2015-04-09 17:21:40 [INFO] Wisperoon joined the game
+2015-04-09 17:24:03 [INFO] rouskata was pummeled by rouskata
+2015-04-09 17:24:48 [INFO] [Wisperoon: Opped rouskata]
+2015-04-09 17:25:01 [INFO] <rouskata> t
+2015-04-09 17:25:19 [INFO] rouskata hit the ground too hard
+2015-04-09 17:25:20 [INFO] [Wisperoon: Teleported rouskata to Wisperoon]
+2015-04-09 17:25:29 [INFO] [Wisperoon: Teleported rouskata to Wisperoon]
+2015-04-09 17:25:33 [INFO] Wisperoon lost connection: disconnect.quitting
+2015-04-09 17:25:33 [INFO] Wisperoon left the game
+2015-04-09 17:34:14 [INFO] rouskata lost connection: disconnect.quitting
+2015-04-09 17:34:14 [INFO] rouskata left the game
+2015-04-09 20:09:42 [SEVERE] Reached end of stream for /25.120.215.232
+2015-04-09 20:09:45 [INFO] Wisperoon[/25.120.215.232:56097] logged in with entity id 80596 at (8.00739119259914, 78.35036400436044, 99.37278696374523)
+2015-04-09 20:09:45 [INFO] Wisperoon joined the game
+2015-04-09 20:13:54 [WARNING] Wisperoon moved wrongly!
+2015-04-09 20:33:23 [WARNING] Wisperoon moved wrongly!
+2015-04-09 20:34:01 [WARNING] Wisperoon moved wrongly!
+2015-04-09 20:38:06 [WARNING] Wisperoon moved wrongly!
+2015-04-09 20:39:30 [WARNING] Wisperoon moved wrongly!
+2015-04-09 20:39:41 [WARNING] Wisperoon moved wrongly!
+2015-04-09 20:53:36 [INFO] [Wisperoon: Set own game mode to Survival Mode]
+2015-04-09 20:54:52 [INFO] Wisperoon lost connection: disconnect.quitting
+2015-04-09 20:54:52 [INFO] Wisperoon left the game
